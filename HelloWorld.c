@@ -6,5 +6,5 @@ int main(){
 	printf("Ola Mundo!");
 	printf("oi fabio");
 	x = x + 20;
-	printf(x);
+	printf("%d",x);
 }
